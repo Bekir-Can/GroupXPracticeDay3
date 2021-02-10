@@ -9,6 +9,11 @@ public class Main {
         //Then right click Git=>Add to.gitignore=>Add to.gitignore then ok./create
         //Class name Main' colours is red means unversion not track yet.
         //Then COMMIT it right up sight button tick icon then write commit inside the window then COMMIT.
+        //Then PUSH rght up button green arrow icon we saw nothing ready yet.
+        //Then go VCS/GIT menu=> Import into Version Control/Git=>Share Project on GitHut
+        //Window opened => write some text inside(This is my group project repo for GroupX) =>click share
+        //We saw the pop up under the right sight "Successfully shared project on GitHub"
+        // until now we created repository go git browser and see!!!!
 
     }
 }
